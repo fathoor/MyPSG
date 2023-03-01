@@ -1,3 +1,120 @@
 <resources>
     <string name="app_name">MyPSG</string>
+    <string name="app_title">STARTING XI</string>
+
+    <string-array name="player_name">
+        <item>Gianluigi Donnarumma</item>
+        <item>Achraf Hakimi</item>
+        <item>Presnel Kimpembe</item>
+        <item>Sergio Ramos</item>
+        <item>Marquinhos</item>
+        <item>Marco Verratti</item>
+        <item>Fabian Ruiz</item>
+        <item>Vitinha</item>
+        <item>Kylian Mbappe</item>
+        <item>Neymar Jr</item>
+        <item>Lionel Messi</item>
+    </string-array>
+
+    <string-array name="player_short_name">
+        <item>Donnarumma</item>
+        <item>Hakimi</item>
+        <item>Kimpembe</item>
+        <item>Ramos</item>
+        <item>Marquinhos</item>
+        <item>Verratti</item>
+        <item>Ruiz</item>
+        <item>Vitinha</item>
+        <item>Mbappe</item>
+        <item>Neymar</item>
+        <item>Messi</item>
+    </string-array>
+
+    <string-array name="player_position">
+        <item>Goalkeeper</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+    </string-array>
+
+    <string-array name="player_number">
+        <item>99</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>17</item>
+        <item>7</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="player_birthdate">
+        <item>1999-02-25</item>
+        <item>1998-02-04</item>
+        <item>1995-01-13</item>
+        <item>1986-03-30</item>
+        <item>1994-05-14</item>
+        <item>1992-02-25</item>
+        <item>1995-01-18</item>
+        <item>2001-01-10</item>
+        <item>1998-12-20</item>
+        <item>1992-02-05</item>
+        <item>1987-06-24</item>
+    </string-array>
+
+    <string-array name="player_nationality">
+        <item>Italy</item>
+        <item>Morocco</item>
+        <item>France</item>
+        <item>Spain</item>
+        <item>Brazil</item>
+        <item>Italy</item>
+        <item>Spain</item>
+        <item>Portugal</item>
+        <item>France</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+    </string-array>
+
+    <string-array name="player_bio">
+        <item>Donnarumma is a goalkeeper who joined PSG from AC Milan in 2019. He is a product of the Milan youth academy and made his first-team debut in 2015. He has represented Italy at youth level and made his senior debut in 2016.</item>
+        <item>Hakimi is a right-back who joined PSG from Real Madrid in 2021. He is a product of the Real Madrid youth academy and made his first-team debut in 2017. He has represented Morocco at youth level and made his senior debut in 2018.</item>
+        <item>Kimpembe is a centre-back who joined PSG from Monaco in 2017. He is a product of the Monaco youth academy and made his first-team debut in 2015. He has represented France at youth level and made his senior debut in 2016.</item>
+        <item>Ramos is a centre-back who joined PSG from Real Madrid in 2021. He is a product of the Real Madrid youth academy and made his first-team debut in 2005. He has represented Spain at youth level and made his senior debut in 2005.</item>
+        <item>Marquinhos is a centre-back who joined PSG from AS Roma in 2018. He is a product of the Roma youth academy and made his first-team debut in 2013. He has represented Brazil at youth level and made his senior debut in 2013.</item>
+        <item>Verratti is a central midfielder who joined PSG from Juventus in 2018. He is a product of the Pescara youth academy and made his first-team debut in 2012. He has represented Italy at youth level and made his senior debut in 2012.</item>
+        <item>Ruiz is a central midfielder who joined PSG from Napoli in 2019. He is a product of the Real Madrid youth academy and made his first-team debut in 2015. He has represented Spain at youth level and made his senior debut in 2015.</item>
+        <item>Vitinha is a central midfielder who joined PSG from Sporting CP in 2021. He is a product of the Sporting CP youth academy and made his first-team debut in 2019. He has represented Portugal at youth level and made his senior debut in 2019.</item>
+        <item>Mbappe is a forward who joined PSG from Monaco in 2020. He is a product of the Monaco youth academy and made his first-team debut in 2017. He has represented France at youth level and made his senior debut in 2017.</item>
+        <item>Neymar is a forward who joined PSG from FC Barcelona in 2017. He is a product of the Santos FC. He has represented Brazil at youth level and made his senior debut in 2010.</item>
+        <item>Messi is a forward who joined PSG from FC Barcelona in 2021. He is a product of the FC Barcelona Academy and made his first-team debut in 2004. It’s hard to find the words to describe a man that the football world knows simply as ‘The GOAT’.</item>
+    </string-array>
+
+    <string-array name="player_photo">
+        <item>https://images.psg.media/media/207154/card-season-22-23-donnarumma.png</item>
+        <item>https://images.psg.media/media/207376/card-season-22-23-hakimi.png</item>
+        <item>https://images.psg.media/media/207480/card-season-22-23-ramos.png</item>
+        <item>https://images.psg.media/media/27044/card-season-22-23-kimpembe.png</item>
+        <item>https://images.psg.media/media/27046/card-season-22-23-marquinhos.png</item>
+        <item>https://images.psg.media/media/27047/card-season-22-23-verratti.png</item>
+        <item>https://images.psg.media/media/230562/card-ruiz-22-23.png</item>
+        <item>https://images.psg.media/media/227375/card-season-22-23-vitinha.png</item>
+        <item>https://images.psg.media/media/27048/card-season-22-23-mbappe.png</item>
+        <item>https://images.psg.media/media/27051/card-22-23_neymar.png</item>
+        <item>https://images.psg.media/media/209026/card-season-22-23-messi.png</item>
+    </string-array>
+
+    <string name="user_profile">Profile</string>
+    <string name="user_name">Muhammad Fathurrahman</string>
+    <string name="user_email">mfathoor.23@gmail.com</string>
 </resources>
