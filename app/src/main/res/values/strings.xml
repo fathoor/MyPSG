@@ -44,7 +44,7 @@
         <item>Forward</item>
     </string-array>
 
-    <string-array name="player_number">
+    <integer-array name="player_number">
         <item>99</item>
         <item>2</item>
         <item>3</item>
@@ -56,21 +56,7 @@
         <item>7</item>
         <item>10</item>
         <item>30</item>
-    </string-array>
-
-    <string-array name="player_birthdate">
-        <item>1999-02-25</item>
-        <item>1998-02-04</item>
-        <item>1995-01-13</item>
-        <item>1986-03-30</item>
-        <item>1994-05-14</item>
-        <item>1992-02-25</item>
-        <item>1995-01-18</item>
-        <item>2001-01-10</item>
-        <item>1998-12-20</item>
-        <item>1992-02-05</item>
-        <item>1987-06-24</item>
-    </string-array>
+    </integer-array>
 
     <string-array name="player_nationality">
         <item>Italy</item>
@@ -101,17 +87,17 @@
     </string-array>
 
     <string-array name="player_photo">
-        <item>https://images.psg.media/media/207154/card-season-22-23-donnarumma.png</item>
-        <item>https://images.psg.media/media/207376/card-season-22-23-hakimi.png</item>
-        <item>https://images.psg.media/media/207480/card-season-22-23-ramos.png</item>
-        <item>https://images.psg.media/media/27044/card-season-22-23-kimpembe.png</item>
-        <item>https://images.psg.media/media/27046/card-season-22-23-marquinhos.png</item>
-        <item>https://images.psg.media/media/27047/card-season-22-23-verratti.png</item>
-        <item>https://images.psg.media/media/230562/card-ruiz-22-23.png</item>
-        <item>https://images.psg.media/media/227375/card-season-22-23-vitinha.png</item>
-        <item>https://images.psg.media/media/27048/card-season-22-23-mbappe.png</item>
-        <item>https://images.psg.media/media/27051/card-22-23_neymar.png</item>
-        <item>https://images.psg.media/media/209026/card-season-22-23-messi.png</item>
+        <item>https://images.psg.media/media/207154/card-season-22-23-donnarumma.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/207376/card-season-22-23-hakimi.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/27044/card-season-22-23-kimpembe.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/207480/card-season-22-23-ramos.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/27046/card-season-22-23-marquinhos.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/27047/card-season-22-23-verratti.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/230562/card-ruiz-22-23.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/227375/card-season-22-23-vitinha.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/27048/card-season-22-23-mbappe.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/27051/card-22-23_neymar.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
+        <item>https://images.psg.media/media/209026/card-season-22-23-messi.png?mode=crop&amp;width=200&amp;height=300&amp;quality=100</item>
     </string-array>
 
     <string name="user_profile">Profile</string>
