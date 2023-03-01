@@ -9,7 +9,6 @@ data class Player(
     val shortName: String,
     val position: String,
     val number: Int,
-    val birthdate: String,
     val nationality: String,
     val bio: String,
     val photo: String
